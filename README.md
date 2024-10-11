@@ -1,6 +1,4 @@
-Team: kingpin
-Siddhartha Naik 
-Muskaan Siddiqui
+Team: kingpin; Siddhartha Naik and Muskaan Siddiqui
 
 Problem-Statement
 
