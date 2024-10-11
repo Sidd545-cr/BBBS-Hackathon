@@ -8,5 +8,9 @@ Challenge:
 ➢ Devise efficient to crack the 6-digit PIN within limited attempts or time constraints.
 ➢ Bypass the Devices additional security layers.
 
+we have used created methods for two different scenarios, 
+1] for later versions of android which have locksettings.db
+2] for older versions of android which use 
+
 video demo:
 https://drive.google.com/file/d/1bXzAsr_0Nz-IXk7jljeGiDAJkry_2baU/view?usp=sharing
